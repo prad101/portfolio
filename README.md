@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education
--- Computer Science, MS | Kennesaw State University (College of Computing and Software Engineering) at Georgia, USA - (expected Dec. 2026)
--- Computer Science, BS | Bangalore Institute of Technology at Bengaluru, India
+-- Computer Science, MS | Kennesaw State University, Georgia, USA - (expected Dec. 2026)
+-- Computer Science, BS | Bangalore Institute of Technology, Bengaluru, India
 
 ### Work Experience
 **Data Scientist @ BetterPlace (_May 2022 - Aug. 2024_)**
