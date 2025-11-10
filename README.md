@@ -1,8 +1,7 @@
-# Data Scientist
+# Data Scientist | ML/AI Engineer | Backend Engineer
 
-### Education
--- Computer Science, MS | Kennesaw State University, Georgia, USA - (expected Dec. 2026)
--- Computer Science, BS | Bangalore Institute of Technology, Bengaluru, India
+### About me
+Graduate student and a seasoned engineer with data science, machine learning and software development experience. Expertise in Computer Vision, NLP, Deep Learning and MLOps (across AWS, GCP and Azure). Writing efficient, scalable and maintainable code in Python, Java and C++. Skilled in building end-to-end Data and ML/AI pipelines with scalable architecture for production environments.
 
 ### Work Experience
 **Data Scientist @ BetterPlace (_May 2022 - Aug. 2024_)**
@@ -48,3 +47,10 @@ a product by leveraging its documentation through RAG (FAISS).
 
 **AI for Truth** (Academic Project) | NLP, BERT, ResNet50
 - A multimodal approach for classifying news articles into six categories by leveraging ResNet50 to extract visual patterns from images and BERT to capture textual semantics from titles, followed by a fusion model to predict the final classification. Applications: Fake news detection, media analytics, cross-modal content understanding
+
+### Education
+- Computer Science, M.S. | Kennesaw State University, GA  
+  GPA: 3.75 | Expected Grad: June–Dec 2026
+- Computer Science, B.S. | Bangalore Institute of Technology (BIT), KA, India
+  GPA: 3.66
+
