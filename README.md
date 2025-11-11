@@ -1,4 +1,5 @@
 # Data Scientist | ML/AI Engineer
+Atlanta, GA
 
 ### About me
 A computer science graduate student and a seasoned engineer with 3.5+ years of professional experience in data science, machine learning and software development. Expertise in Computer Vision, NLP, Deep Learning and MLOps (across AWS, GCP and Azure). Writing efficient, scalable and maintainable code in Python, Java and C++. Skilled in building end-to-end Data and ML/AI pipelines with scalable architecture for production environments.
@@ -53,5 +54,9 @@ a product by leveraging its documentation through RAG (FAISS).
   GPA: 3.75 | Expected Grad: June–Dec 2026
 
 - Computer Science, B.S. | Bangalore Institute of Technology (BIT), KA, India
-  GPA: 3.75 |
 
+### Contact
+
+- **[School Email](mailto:pkumar7@students.kennesaw.edu)**
+- **[Personal Email](mailto:pradyumna.ka@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/pradyumnakumar/)**
