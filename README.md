@@ -5,7 +5,7 @@ Atlanta, GA
 A computer science graduate student and a seasoned engineer with 3.5+ years of professional experience in data science, machine learning and software development. Expertise in Computer Vision, NLP, Deep Learning and MLOps (across AWS, GCP and Azure). Writing efficient, scalable and maintainable code in Python, Java and C++. Skilled in building end-to-end Data and ML/AI pipelines with scalable architecture for production environments.
 
 ### Work Experience
-**Data Scientist @ BetterPlace (_May 2022 - Aug. 2024_)**
+**Data Scientist @ [BetterPlace](https://www.betterplace.co.in) (_May 2022 - Aug. 2024_)**
 Enterprise SaaS for Frontline Workforce Management
 - Redeveloped the job recommendation engine with deployments, improving user engagement by 40% and an increased conversions by 20%
 - Implemented criminal check service. Involved web scraping, building transformer model, and
@@ -16,7 +16,7 @@ face missing errors by 90%
 - Collaborated cross-functionally with Product and Engineering to productionize ML solutions via scalable APIs,
 influencing company-wide optimised solutions.
 
-**Associate Data Analyst @ BetterPlace (_Feb. 2021 - Apr. 2022_)**
+**Associate Data Analyst @ [BetterPlace](https://www.betterplace.co.in) (_Feb. 2021 - Apr. 2022_)**
 Enterprise SaaS for Frontline Workforce Management
 - Engineered robust streaming and batch data pipelines for the Hire packet using Kafka and Airflow,
 reducing the data operations costs by 50%, visualized the ETL metrics using Tableau
@@ -26,16 +26,16 @@ performance,reduced average query response time by 80%
 levels. Aided the marketing team in troubleshooting issues efficiently, reducing the turnaround time by 45%
 - Delivered training sessions on Python and SQL, contributing to skill development initiatives in the company
 
-**Decision Scientist Intern @ MuSigma Inc (_Sep. 2020 - Dec. 2020_)**
+**Decision Scientist Intern @ [MuSigma Inc](https://www.mu-sigma.com/) (_Sep. 2020 - Dec. 2020_)**
 - Analyzed store activity data with Python/Tableau to track footfall and improve customer experience
 - Built ARIMA model to forecast seismic events, delivering risk-mitigation insights for oil & gas operations
 
 ### Projects
-**Agentic AI approach for alzheimer’s cognitive tests** (Research Project @ X-lab KSU) | RAG, Hugging Face (openBioLLM)
+**Agentic AI approach for alzheimer’s cognitive tests** (Research Project @ [X-lab KSU](https://xlab.kennesaw.edu/team/) | RAG, Hugging Face (openBioLLM)
 - Developing a knowledge graph-based cognitive Q&A tests for Alzheimer’s early disease detection leveraging large
 language models (openBioLLM) and vector databases.
 
-**AI-driven Molecular Simulation and binding mechanism for Drug Discovery** (Research Project @ X-lab KSU) | HPC, CUDA, Python, OpenMM
+**AI-driven Molecular Simulation and binding mechanism for Drug Discovery** (Research Project @ [X-lab KSU](https://xlab.kennesaw.edu/team/) | HPC, CUDA, Python, OpenMM
 - Simulated virus–host protein interactions (SARS-like) to identify critical residues using High-Performance
 computing (HPC) systems. Generated visualizations to extract key bonding interactions for lab validations.
 
@@ -53,10 +53,10 @@ a product by leveraging its documentation through RAG (FAISS).
 - Computer Science, M.S. | Kennesaw State University, GA  
   GPA: 3.75 | Expected Grad: June–Dec 2026
 
-- Computer Science, B.S. | Bangalore Institute of Technology (BIT), KA, India
+- Computer Science, B.S. | Bangalore Institute of Technology, India
 
 ### Contact
 
+- **[LinkedIn](https://www.linkedin.com/in/pradyum-kumar/)**
 - **[School Email](mailto:pkumar7@students.kennesaw.edu)**
 - **[Personal Email](mailto:pradyumna.ka@gmail.com)**
-- **[LinkedIn](https://www.linkedin.com/in/pradyumnakumar/)**
