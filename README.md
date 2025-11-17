@@ -5,7 +5,7 @@ Atlanta, GA
 A computer science graduate student and a seasoned engineer with 3.5+ years of professional experience in data science, machine learning and software development. Expertise in Computer Vision, NLP, Deep Learning and MLOps (across AWS, GCP and Azure). Writing efficient, scalable and maintainable code in Python, Java and C++. Skilled in building end-to-end Data and ML/AI pipelines with scalable architecture for production environments.
 
 ### Work Experience
-**Data Scientist @ [BetterPlace](https://www.betterplace.co.in) (_May 2022 - Aug. 2024_)**
+**Data Scientist @ [BetterPlace](https://go-better.com/about) (_May 2022 - Aug. 2024_)**
 Enterprise SaaS for Frontline Workforce Management
 - Redeveloped the job recommendation engine with deployments, improving user engagement by 40% and an increased conversions by 20%
 - Implemented criminal check service. Involved web scraping, building transformer model, and
@@ -16,7 +16,7 @@ face missing errors by 90%
 - Collaborated cross-functionally with Product and Engineering to productionize ML solutions via scalable APIs,
 influencing company-wide optimised solutions.
 
-**Associate Data Analyst @ [BetterPlace](https://www.betterplace.co.in) (_Feb. 2021 - Apr. 2022_)**
+**Associate Data Analyst @ [BetterPlace](https://go-better.com/about) (_Feb. 2021 - Apr. 2022_)**
 Enterprise SaaS for Frontline Workforce Management
 - Engineered robust streaming and batch data pipelines for the Hire packet using Kafka and Airflow,
 reducing the data operations costs by 50%, visualized the ETL metrics using Tableau
