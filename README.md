@@ -51,7 +51,7 @@ a product by leveraging its documentation through RAG (FAISS).
 
 ### Education
 - Computer Science, M.S. | Kennesaw State University, GA  
-  GPA: 3.75 | Expected Grad: June–Dec 2026
+  GPA: 3.85 | Expected Grad: May 2026
 
 - Computer Science, B.S. | Bangalore Institute of Technology, India
 
