@@ -635,6 +635,30 @@ strong {
   margin-top: 2px;
 }
 
+.timeline__company-link {
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+.timeline__company-link svg {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 2px;
+  opacity: 0;
+  transition: opacity var(--transition-fast);
+}
+
+.timeline__company-link:hover {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.timeline__company-link:hover svg {
+  opacity: 0.7;
+}
+
 .timeline__type {
   color: var(--color-text-muted);
   font-style: italic;
@@ -759,6 +783,42 @@ strong {
   gap: var(--space-sm);
 }
 
+.project-card__links,
+.achievement-card__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  margin-top: var(--space-lg);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--color-border-light);
+}
+
+.card-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 0.3rem 0.75rem;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-accent);
+  border: 1px solid var(--color-accent);
+  border-radius: var(--border-radius-full);
+  background: transparent;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+
+.card-link:hover {
+  background: var(--color-accent);
+  color: var(--color-surface-white);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(59, 130, 246, 0.3);
+}
+
+.card-link svg {
+  flex-shrink: 0;
+}
+
 /* --------------------------------------------------------------------------
    10. PUBLICATIONS & ACHIEVEMENTS
    -------------------------------------------------------------------------- */
@@ -817,6 +877,24 @@ strong {
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.04em;
+}
+
+/* Hidden by default; shown only when an <img> is present inside */
+.achievement-card__image {
+  display: none;
+  margin-bottom: var(--space-lg);
+}
+
+.achievement-card__image:has(img) {
+  display: block;
+}
+
+.achievement-card__image img {
+  width: 100%;
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: var(--border-radius);
+  box-shadow: 0 2px 8px var(--color-shadow);
 }
 
 /* --------------------------------------------------------------------------
