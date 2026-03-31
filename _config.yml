@@ -1,6 +1,4 @@
+# GitHub Pages now serves index.html directly — no Jekyll theme needed.
+# Keep this file minimal to avoid Jekyll processing conflicts.
 title: Pradyumna Kumar
-logo: assets/images/headshot.jpg
-show_download: true
-theme: jekyll-theme-minimal
-email: pradyumnakumar@example.com
-linkedin: https://www.linkedin.com/in/pradyumnakumar/
+description: Data Scientist | ML Engineer | AI Engineer
