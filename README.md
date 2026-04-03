@@ -2,7 +2,7 @@
 Atlanta, GA
 
 ### About me
-A computer science graduate student and a seasoned engineer with 3.5+ years of professional experience in data science, machine learning and software development. Expertise in Computer Vision, NLP, Deep Learning and MLOps (across AWS, GCP and Azure). Writing efficient, scalable and maintainable code in Python, Java and C++. Skilled in building end-to-end Data and ML/AI pipelines with scalable architecture for production environments.
+A computer science graduate student and a seasoned engineer with 4 years of professional experience in data science, machine learning and software development. Expertise in Computer Vision, NLP, Deep Learning and MLOps (across AWS, GCP and Azure). Writing efficient, scalable and maintainable code in Python, Java and C++. Skilled in building end-to-end Data and ML/AI pipelines with scalable architecture for production environments.
 
 ### Work Experience
 **Data Scientist @ [BetterPlace](https://go-better.com/about) (_May 2022 - Aug. 2024_)**
