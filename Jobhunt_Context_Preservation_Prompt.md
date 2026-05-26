@@ -11,7 +11,7 @@
 
 ## Major Projects/Achievements
 1. **ModelGate** - 3rd place KSU Social Good Hackathon 2026, contract-aware AI routing platform, GRPO fine-tuning, 59% cost reduction, published on HuggingFace (60 downloads)
-2. **Criminal Verification System** - End-to-end NLP system at BetterPlace, saved $7k/month, RoBERTa fine-tuning, Kubernetes deployment
+2. **Criminal Verification System** - End-to-end NLP system at BetterPlace, saved $3M/year, RoBERTa fine-tuning, Kubernetes deployment
 3. **Job Recommendation Pipeline** - Production LightGBM system, 60% engagement boost, 30% conversion increase
 4. **Adversarial Robustness Research** - KSU RA work on neural network inference, differentiates for AI safety/CV roles
 5. **MDPI Publication** - First-author paper "AI-Guided Binding Mechanisms and Molecular Dynamics for MERS-CoV", ACS Spring 2026 oral presentation
